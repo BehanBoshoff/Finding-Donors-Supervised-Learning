@@ -1,0 +1,2 @@
+# Finding-Donors-Supervised-Learning
+CharityML is a fictitious charity organisation for which I have built an algorithm to best identify potential donors and reduce overhead cost of sending mail.  The goal was to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
